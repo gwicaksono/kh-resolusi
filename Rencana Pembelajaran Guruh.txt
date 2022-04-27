@@ -1,0 +1,4 @@
+RENCANA PEMBELAJARAN PROGRAMMER GURUH
+- Pemahaman Github ( pemahaman dari awal sampai bisa terkoneksi ke lokal)
+- Pemahaman Javascript
+- Pemahaman Jquery
