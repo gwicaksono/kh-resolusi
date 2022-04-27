@@ -1,0 +1,4 @@
+RENCANA PEMBELAJARAN PROGRAMMER GURUH
+- Pemahaman Github
+- Pemahaman Javascript
+Pemahaman Jquery
